@@ -1,6 +1,6 @@
 {
   "name": "successive-nestjs-logger",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "HTTP Json based logger for nestjs",
   "main": "dist/index.js",
   "scripts": {
