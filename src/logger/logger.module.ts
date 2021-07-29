@@ -5,8 +5,8 @@ import { LoggerCoreModule } from "./logger.core.module";
 export class LoggerModule {
   static forRoot(): DynamicModule {
     return {
-      module: LoggerModule
-      imports: [LoggerCoreModule.forRoot(params)]
+      module: LoggerModule,
+      imports: [LoggerCoreModule.forRoot()]
     };
   }
 }
