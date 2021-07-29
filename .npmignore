@@ -1,0 +1,5 @@
+.github/
+dist/*.tsbuildinfo
+dist/*.js.map
+src/
+README.md
